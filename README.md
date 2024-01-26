@@ -1,4 +1,0 @@
-# first-react
-
-sk
-jnbj
