@@ -1,0 +1,35 @@
+{
+  "name": "first-react",
+  "version": "1.0.0",
+  "description": "this is new course",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PallaviMudavaria/first-react.git"
+  },
+  "keywords": [
+    "pallvi",
+    "react"
+  ],
+  "author": "pallavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PallaviMudavaria/first-react/issues"
+  },
+  "homepage": "https://github.com/PallaviMudavaria/first-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList":[
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}
